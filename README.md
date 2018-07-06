@@ -17,8 +17,8 @@ while True:
 ```
 
 Running it:
-![running](termtosvg_jnhi1p81.svg)
+![running](https://rawgit.com/krzys-h/Permuthon/master/termtosvg_jnhi1p81.svg)
 
 To make any sense of this code, you have to use the IDE:
-![ide](termtosvg_7skjbsmr.svg)
+![ide](https://rawgit.com/krzys-h/Permuthon/master/termtosvg_7skjbsmr.svg)
 
